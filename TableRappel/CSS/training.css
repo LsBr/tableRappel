@@ -1,0 +1,20 @@
+
+.trainingContainer input {
+    line-height: 40px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.trainingContainer button {
+    width: 80%;
+    height:100%;
+    font-size: 25px;
+}
+
+.answerResult {
+    visibility: hidden;
+}
+
+.imgTraining {
+    max-height:250px;
+}
